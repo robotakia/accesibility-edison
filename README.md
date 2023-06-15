@@ -7,4 +7,4 @@ Robotakia - Προσβασιμότητα σε ΑΜΕΑ με Edison
 
 Η ιστοσελίδα του έργου: https://openedtech.ellak.gr/robotics2023/robotakia-accessibility-edison/
 
-Βίντεο παρουσίασης του έργου: https://clipchamp.com/watch/QFT6IXZiNCN?utm_source=share&utm_medium=social&utm_campaign=watch
+Βίντεο παρουσίασης του έργου: https://www.youtube.com/watch?v=ywNQWV-eIC4
